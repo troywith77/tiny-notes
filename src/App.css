@@ -1,0 +1,14 @@
+.react-grid-item {
+  // background: #ddd;
+  border: 1px solid black;
+}
+
+.react-grid-item.static {
+  background: #cce;
+}
+
+.react-grid-item.react-grid-placeholder {
+  // background: #999;
+  background: #f3564d;
+  border: none;
+}
